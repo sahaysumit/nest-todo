@@ -6,9 +6,9 @@
 2. Getting Started
 
     -Clone the repository: 
-        git clone https://github.com/sahaysumit/<project_name>.git
+        git clone https://github.com/sahaysumit/nest-todo.git
     -Get inside directory
-        cd <project_name>
+        cd nest-todo
     -Install dependencies: 
         npm install
     -Start the server:
